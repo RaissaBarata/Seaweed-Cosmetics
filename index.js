@@ -1,5 +1,5 @@
 function toggleMenu() {
     var menu = document.getElementById("menu-list");
-    menu.classList.toggle("show");
+    menu.classList.toggle("active");
     console.log("cliquei")
   }
